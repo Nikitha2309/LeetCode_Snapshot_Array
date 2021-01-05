@@ -19,10 +19,10 @@ Hence we call get function with snap_id decremented by 1.
 Here we are using 2 2D maps and global variable 
 
 # Time Complexity
-Set Function - O(1)
-Snap Function - O(1)
-Get Function 
-  - Worst Case - O(n)
-  - Best Case - O(1)
+   - Set Function - O(1)
+   - Snap Function - O(1)
+   - Get Function 
+         - Worst Case - O(n)
+         - Best Case - O(1)
 
 
