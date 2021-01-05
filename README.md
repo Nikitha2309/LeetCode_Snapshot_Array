@@ -24,5 +24,10 @@ Here we are using 2 2D maps and global variable
    - Get Function 
          - Worst Case - O(n)
          - Best Case - O(1)
+         
+ # Result 
+ Accepted 
+ - Runtime: 400 ms, faster than 40.42% of C++ online submissions for Snapshot Array.
+ - Memory Usage: 98.1 MB, less than 46.65% of C++ online submissions for Snapshot Array.
 
 
