@@ -1,7 +1,7 @@
 # LeetCode_Snapshot_Array 
-# Question - https://leetcode.com/problems/snapshot-array/
-# Answer - https://git.io/JLbym
-# Explanation - 
+# [Question](https://leetcode.com/problems/snapshot-array/)
+# [Answer](https://git.io/JLbym)
+# Explanation  
 
 A easy way to solve this problem is to store all values of Snapshot Array with respect to snap_id and index .
 i.e we create a 2D map(snapshot_array) whose rows indicate index of Snapshot array and columns indicate snap_id when this value is stored .
